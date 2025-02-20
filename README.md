@@ -2,7 +2,7 @@
 Weather App which can give the weather data for any state ,city and country
 
 In this project i have created a weather App which gives the  temperature for any state,city or any country
-I have used an open weather API to get the data .
+I have used an open weather API to get the data (to check weather).
 It also provides the future forcasting of the tempearture or weather .
 
 Step 1. Enter the city Name / state / Country.
